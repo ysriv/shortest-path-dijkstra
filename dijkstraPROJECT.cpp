@@ -25,7 +25,7 @@ struct linkedList
 	struct linkedList *link;
 }*r=NULL,*f=NULL;
 
-void Cities()
+void Cities() 
 {
 	string city[NoN]={"Bhubaneswar","Puri","Cuttack","Dhenkanal","Jajpur","Angul","Balangir","Kendujhar","Balasore","Rourkela"};
 	cout<<"INDEX"<<"		"<<"CITIES"<<endl;
